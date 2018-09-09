@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAO2", "Assembly-CSharp.csproj", "{1AE7840F-BA9E-CB8B-5956-ECC548FDBBED}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{1AE7840F-BA9E-CB8B-5956-ECC548FDBBED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAO2", "Assembly-CSharp-firstpass.csproj", "{E8F609B5-B71C-3912-75F3-ECED20A90147}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{E8F609B5-B71C-3912-75F3-ECED20A90147}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAO2", "Assembly-CSharp-Editor-firstpass.csproj", "{977056AF-61E2-A71F-C843-3B61739755CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{977056AF-61E2-A71F-C843-3B61739755CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
