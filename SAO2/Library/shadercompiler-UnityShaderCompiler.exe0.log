@@ -49,4 +49,7 @@ Cmd: preprocess
   insize=880 outsize=1145 ok=1
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master

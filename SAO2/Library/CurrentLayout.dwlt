@@ -46,7 +46,11 @@ MonoBehaviour:
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 73
+=======
+  controlID: 103
+>>>>>>> master
 =======
   controlID: 103
 >>>>>>> master
@@ -214,7 +218,11 @@ MonoBehaviour:
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 87
+=======
+  controlID: 104
+>>>>>>> master
 =======
   controlID: 104
 >>>>>>> master
@@ -242,7 +250,11 @@ MonoBehaviour:
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 88
+=======
+  controlID: 105
+>>>>>>> master
 =======
   controlID: 105
 >>>>>>> master
@@ -377,7 +389,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000048090000
+=======
+    m_ExpandedIDs: 00000000d0340000
+>>>>>>> master
 =======
     m_ExpandedIDs: 00000000d0340000
 >>>>>>> master
@@ -497,9 +513,15 @@ MonoBehaviour:
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 96dbffff
     m_LastClickedID: -9322
     m_ExpandedIDs: e6fbffff00000000
+=======
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: e04af9ff82fcfdff28f4ffff00000000
+>>>>>>> master
 =======
     m_SelectedIDs: 
     m_LastClickedID: 0
@@ -560,9 +582,15 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 4.327209, y: -3.4659228, z: 2.6204062}
     speed: 2
     m_Value: {x: 4.327209, y: -3.4659228, z: 2.6204062}
+=======
+    m_Target: {x: 16.910727, y: 19.053637, z: 33.28673}
+    speed: 2
+    m_Value: {x: 16.910727, y: 19.053637, z: 33.28673}
+>>>>>>> master
 =======
     m_Target: {x: 16.910727, y: 19.053637, z: 33.28673}
     speed: 2
@@ -596,6 +624,7 @@ MonoBehaviour:
       m_Value: 0
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.18306597, y: 0.75821495, z: -0.240213, w: -0.5778362}
     speed: 2
     m_Value: {x: -0.18306597, y: 0.75821495, z: -0.240213, w: -0.5778362}
@@ -604,6 +633,8 @@ MonoBehaviour:
     speed: 2
     m_Value: 29.789022
 =======
+=======
+>>>>>>> master
     m_Target: {x: 0.0054790867, y: -0.97972846, z: 0.19842198, w: 0.027033018}
     speed: 2
     m_Value: {x: 0.0054790867, y: -0.97972846, z: 0.19842198, w: 0.027033018}
@@ -611,6 +642,9 @@ MonoBehaviour:
     m_Target: 15.305777
     speed: 2
     m_Value: 15.305777
+<<<<<<< HEAD
+>>>>>>> master
+=======
 >>>>>>> master
   m_Ortho:
     m_Target: 0
