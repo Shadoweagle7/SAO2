@@ -1,0 +1,44 @@
+Snolt --------------------------------------------------------------------------------------------------------------------
+Attack: 5
+Snail that replaces the normal starter slime typically found in RPGs. Neutral, but when provoked, sends out shockwave
+which attacks player with an AOE. Shockwave will stun player, deals 5 damage per second (amend this) - but will not 
+move when charging up up for shockwave, which takes a millisecond.
+
+Hyperlock -----------------------------------------------------------------------------------------------------------------
+A high level ability that allows you restrain the area in which an entity can move in. Prevents teleportation
+out of designated area when upgraded to a sufficient level. Requires a sacrifice to activate - a section of the health
+bar can be used.
+
+Glimpse -------------------------------------------------------------------------------------------------------------------
+A creature famous for teleporting to get to places. Neutral until provoked, the nature of their attacks is
+dependent on the environment around them. Very dangerous when provoked. Translucent, shapeshifts constantly (even more so
+when attacking) and radiates light of an ambience based off of its environment. High level enemy.
+
+Sentry --------------------------------------------------------------------------------------------------------------------
+A Golem whose sole task is to defend whatever it has been assigned to with its life. However, if left too long without a
+directional energy recharge, the energy controlling its directions will fade, and it will lie dormant until provoked - 
+giving it the title "Abandoned Sentry". Provoking a Sentry includes waking an Abandoned Sentry, attacking a Sentry or
+attacking what it is supposed to defend.
+
+Fabrication Dimension -----------------------------------------------------------------------------------------------------
+"Brain wave how about a having a level made out of fabric".
+"And sword slashes downward rip the road in half"
+"Takes 2 hours to regenerate"
+Enough said.
+
+Flowerbell ----------------------------------------------------------------------------------------------------------------
+- Restoration item
+- The bell creates a melody that restores mana and gives buffs, and the pollen inside restores health
+	- Agility + 1 (amend this)
+	- Health Per Second + 1 for 20 seconds (amend this)
+	- Mana Per Second + 1 for 20 seconds (amend this)
+
+Item Mechanics ------------------------------------------------------------------------------------------------------------
+	Swords ------------------------------------------------------------------------------------------------------------
+		- Blades can be swapped to allow different buffs
+		- Breaking blades can be switched to drop the lowering durability of the hilt
+- Blacksmithing and switching skills offer higher crafting buffs to those who use them.
+
+
+
+
